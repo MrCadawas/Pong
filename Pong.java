@@ -15,6 +15,7 @@ public class Pong implements ActionListener, KeyListener, MouseMotionListener{
 	PongPanel thepanel;
 	Timer thetimer;
 	
+	// This is a overridden method for Mouse Motion Listener
 	public void mouseMoved(MouseEvent evt){
 		
 		if(evt.getY() < thepanel.intP2Y){
