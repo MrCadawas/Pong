@@ -1,8 +1,3 @@
-// My first swing animation game
-// Using Keylistener, MouseMotionLinter
-// Created By: Cadawas
-// Created On Dec 7
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
